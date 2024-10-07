@@ -6,7 +6,7 @@ Solution: FichePays.sln
 Projet: FichePays.csproj
 Classe: FichePaysForm.cs
 
-But:            Devoir 02
+But: Devoir 02 -- Partie C
 */
 
 
