@@ -1,0 +1,21 @@
+C:\Users\User\Desktop\prog1236\temp\FichesPays\bin\Debug\FichesPays.exe.config
+C:\Users\User\Desktop\prog1236\temp\FichesPays\bin\Debug\FichesPays.exe
+C:\Users\User\Desktop\prog1236\temp\FichesPays\bin\Debug\FichesPays.pdb
+C:\Users\User\Desktop\prog1236\temp\FichesPays\obj\Debug\FichesPays.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\prog1236\temp\FichesPays\obj\Debug\FichesPays.Parent.resources
+C:\Users\User\Desktop\prog1236\temp\FichesPays\obj\Debug\FichesPays.Properties.Resources.resources
+C:\Users\User\Desktop\prog1236\temp\FichesPays\obj\Debug\FichesPays.csproj.GenerateResource.cache
+C:\Users\User\Desktop\prog1236\temp\FichesPays\obj\Debug\FichesPays.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\prog1236\temp\FichesPays\obj\Debug\FichesPays.exe
+C:\Users\User\Desktop\prog1236\temp\FichesPays\obj\Debug\FichesPays.pdb
+C:\Users\User\Documents\Programmation et application mobile 2\PROG 2 Automne 2024\PROG 1236 C#\Projets\FichesPays\FichesPays\obj\Debug\FichesPays.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Programmation et application mobile 2\PROG 2 Automne 2024\PROG 1236 C#\Projets\FichesPays\FichesPays\obj\Debug\FichesPays.exe
+C:\Users\User\Documents\Programmation et application mobile 2\PROG 2 Automne 2024\PROG 1236 C#\Projets\FichesPays\FichesPays\obj\Debug\FichesPays.pdb
+C:\Users\User\Documents\Programmation et application mobile 2\PROG 2 Automne 2024\PROG 1236 C#\Projets\FichesPays\FichesPays\bin\Debug\FichesPays.exe.config
+C:\Users\User\Documents\Programmation et application mobile 2\PROG 2 Automne 2024\PROG 1236 C#\Projets\FichesPays\FichesPays\bin\Debug\FichesPays.exe
+C:\Users\User\Documents\Programmation et application mobile 2\PROG 2 Automne 2024\PROG 1236 C#\Projets\FichesPays\FichesPays\bin\Debug\FichesPays.pdb
+C:\Users\User\Documents\Programmation et application mobile 2\PROG 2 Automne 2024\PROG 1236 C#\Projets\FichesPays\FichesPays\obj\Debug\FichesPays.Parent.resources
+C:\Users\User\Documents\Programmation et application mobile 2\PROG 2 Automne 2024\PROG 1236 C#\Projets\FichesPays\FichesPays\obj\Debug\FichesPays.PaysForm.resources
+C:\Users\User\Documents\Programmation et application mobile 2\PROG 2 Automne 2024\PROG 1236 C#\Projets\FichesPays\FichesPays\obj\Debug\FichesPays.Properties.Resources.resources
+C:\Users\User\Documents\Programmation et application mobile 2\PROG 2 Automne 2024\PROG 1236 C#\Projets\FichesPays\FichesPays\obj\Debug\FichesPays.csproj.GenerateResource.cache
+C:\Users\User\Documents\Programmation et application mobile 2\PROG 2 Automne 2024\PROG 1236 C#\Projets\FichesPays\FichesPays\obj\Debug\FichesPays.csproj.CoreCompileInputs.cache

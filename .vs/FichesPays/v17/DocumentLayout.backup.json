@@ -3,11 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Documents\\Programmation et application mobile 2\\PROG 2 Automne 2024\\FichesPays (1)\\FichesPays\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{60000312-F804-43A4-9E90-E7DD2B33121B}|FichesPays.csproj|C:\\Users\\User\\Documents\\Programmation et application mobile 2\\PROG 2 Automne 2024\\FichesPays (1)\\FichesPays\\fichespaysform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60000312-F804-43A4-9E90-E7DD2B33121B}|FichesPays.csproj|solutionrelative:fichespaysform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60000312-F804-43A4-9E90-E7DD2B33121B}|FichesPays.csproj|c:\\users\\user\\documents\\programmation et application mobile 2\\prog 2 automne 2024\\fichespays (1)\\fichespays\\fichepaysgeneralclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{60000312-F804-43A4-9E90-E7DD2B33121B}|FichesPays.csproj|C:\\Users\\User\\Documents\\Programmation et application mobile 2\\PROG 2 Automne 2024\\FichesPays (1)\\FichesPays\\fichepaysgeneralclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{60000312-F804-43A4-9E90-E7DD2B33121B}|FichesPays.csproj|solutionrelative:fichepaysgeneralclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -19,11 +15,15 @@
       "RelativeMoniker": "D:0:0:{60000312-F804-43A4-9E90-E7DD2B33121B}|FichesPays.csproj|solutionrelative:paysform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{60000312-F804-43A4-9E90-E7DD2B33121B}|FichesPays.csproj|C:\\Users\\User\\Documents\\Programmation et application mobile 2\\PROG 2 Automne 2024\\FichesPays (1)\\FichesPays\\fichespaysform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60000312-F804-43A4-9E90-E7DD2B33121B}|FichesPays.csproj|solutionrelative:fichespaysform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{60000312-F804-43A4-9E90-E7DD2B33121B}|FichesPays.csproj|C:\\Users\\User\\Documents\\Programmation et application mobile 2\\PROG 2 Automne 2024\\FichesPays (1)\\FichesPays\\fichespaysform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{60000312-F804-43A4-9E90-E7DD2B33121B}|FichesPays.csproj|solutionrelative:fichespaysform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60000312-F804-43A4-9E90-E7DD2B33121B}|FichesPays.csproj|C:\\Users\\User\\Documents\\Programmation et application mobile 2\\PROG 2 Automne 2024\\FichesPays (1)\\FichesPays\\fichepaysclassdiagram.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "AbsoluteMoniker": "D:0:0:{60000312-F804-43A4-9E90-E7DD2B33121B}|FichesPays.csproj|c:\\users\\user\\documents\\programmation et application mobile 2\\prog 2 automne 2024\\fichespays (1)\\fichespays\\fichepaysclassdiagram.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
       "RelativeMoniker": "D:0:0:{60000312-F804-43A4-9E90-E7DD2B33121B}|FichesPays.csproj|solutionrelative:fichepaysclassdiagram.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
     },
     {
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -49,10 +49,6 @@
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "FichePaysClassDiagram.cd",
@@ -61,11 +57,12 @@
               "ToolTip": "C:\\Users\\User\\Documents\\Programmation et application mobile 2\\PROG 2 Automne 2024\\FichesPays (1)\\FichesPays\\FichePaysClassDiagram.cd",
               "RelativeToolTip": "FichePaysClassDiagram.cd",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
-              "WhenOpened": "2024-10-07T18:19:27.031Z"
+              "WhenOpened": "2024-10-07T18:19:27.031Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "PaysForm.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\Programmation et application mobile 2\\PROG 2 Automne 2024\\FichesPays (1)\\FichesPays\\PaysForm.cs",
               "RelativeDocumentMoniker": "PaysForm.cs",
@@ -73,41 +70,43 @@
               "RelativeToolTip": "PaysForm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T17:21:18.047Z"
+              "WhenOpened": "2024-10-04T17:21:18.047Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "PaysForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\Programmation et application mobile 2\\PROG 2 Automne 2024\\FichesPays (1)\\FichesPays\\PaysForm.cs",
               "RelativeDocumentMoniker": "PaysForm.cs",
               "ToolTip": "C:\\Users\\User\\Documents\\Programmation et application mobile 2\\PROG 2 Automne 2024\\FichesPays (1)\\FichesPays\\PaysForm.cs [Design]",
               "RelativeToolTip": "PaysForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T17:10:57.684Z"
+              "WhenOpened": "2024-10-04T17:10:57.684Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "fichePaysGeneralClass.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\Programmation et application mobile 2\\PROG 2 Automne 2024\\FichesPays (1)\\FichesPays\\fichePaysGeneralClass.cs",
               "RelativeDocumentMoniker": "fichePaysGeneralClass.cs",
               "ToolTip": "C:\\Users\\User\\Documents\\Programmation et application mobile 2\\PROG 2 Automne 2024\\FichesPays (1)\\FichesPays\\fichePaysGeneralClass.cs",
               "RelativeToolTip": "fichePaysGeneralClass.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-04T16:55:16.994Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "FichesPaysForm.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\Programmation et application mobile 2\\PROG 2 Automne 2024\\FichesPays (1)\\FichesPays\\FichesPaysForm.cs",
               "RelativeDocumentMoniker": "FichesPaysForm.cs",
               "ToolTip": "C:\\Users\\User\\Documents\\Programmation et application mobile 2\\PROG 2 Automne 2024\\FichesPays (1)\\FichesPays\\FichesPaysForm.cs",
               "RelativeToolTip": "FichesPaysForm.cs",
-              "ViewState": "AgIAAKYAAAAAAAAAAAAmwLcAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAqwFYAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-04T01:11:40.954Z",
               "EditorCaption": ""
