@@ -80,6 +80,7 @@
             this.nomTextBox.Name = "nomTextBox";
             this.nomTextBox.Size = new System.Drawing.Size(255, 22);
             this.nomTextBox.TabIndex = 4;
+            this.nomTextBox.TextChanged += new System.EventHandler(this.capitaleTextBox_TextChanged);
             // 
             // capitaleTextBox
             // 
@@ -87,6 +88,7 @@
             this.capitaleTextBox.Name = "capitaleTextBox";
             this.capitaleTextBox.Size = new System.Drawing.Size(255, 22);
             this.capitaleTextBox.TabIndex = 5;
+            this.capitaleTextBox.TextChanged += new System.EventHandler(this.capitaleTextBox_TextChanged);
             // 
             // superficieTextBox
             // 
@@ -94,6 +96,7 @@
             this.superficieTextBox.Name = "superficieTextBox";
             this.superficieTextBox.Size = new System.Drawing.Size(254, 22);
             this.superficieTextBox.TabIndex = 6;
+            this.superficieTextBox.TextChanged += new System.EventHandler(this.capitaleTextBox_TextChanged);
             // 
             // descriptionRichTextBox
             // 
@@ -102,6 +105,8 @@
             this.descriptionRichTextBox.Size = new System.Drawing.Size(248, 129);
             this.descriptionRichTextBox.TabIndex = 7;
             this.descriptionRichTextBox.Text = "";
+            this.descriptionRichTextBox.SelectionChanged += new System.EventHandler(this.descriptionRichTextBox_SelectionChanged);
+            this.descriptionRichTextBox.TextChanged += new System.EventHandler(this.capitaleTextBox_TextChanged);
             // 
             // PaysForm
             // 
@@ -119,6 +124,8 @@
             this.Name = "PaysForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
             this.Text = "PaysForm";
+            this.Activated += new System.EventHandler(this.PaysForm_Activated);
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.PaysForm_FormClosing);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -130,9 +137,9 @@
         private System.Windows.Forms.Label capitalePaysLabel;
         private System.Windows.Forms.Label superficieLabel;
         private System.Windows.Forms.Label descriptionLabel;
-        private System.Windows.Forms.TextBox nomTextBox;
-        private System.Windows.Forms.TextBox capitaleTextBox;
-        private System.Windows.Forms.TextBox superficieTextBox;
-        private System.Windows.Forms.RichTextBox descriptionRichTextBox;
+        public System.Windows.Forms.RichTextBox descriptionRichTextBox;
+        internal System.Windows.Forms.TextBox capitaleTextBox;
+        internal System.Windows.Forms.TextBox superficieTextBox;
+        internal System.Windows.Forms.TextBox nomTextBox;
     }
 }

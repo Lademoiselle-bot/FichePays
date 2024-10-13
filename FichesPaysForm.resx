@@ -123,9 +123,6 @@
   <metadata name="fichePaysMenuStrip.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
   </metadata>
-  <metadata name="fichePaysToolStrip.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>271, 21</value>
-  </metadata>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="nouveauToolStripMenuItem.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
@@ -216,7 +213,7 @@
   <data name="rechercherToolStripMenuItem.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGOfPtRkwAAACBjSFJNAAB6
-        JQAAgIMAAPn/AACA6QAAdTAAAOpgAAA6mAAAF2+SX8VGAAAACXBIWXMAAAsRAAALEQF/ZF+RAAACLklE
+        JQAAgIMAAPn/AACA6QAAdTAAAOpgAAA6mAAAF2+SX8VGAAAACXBIWXMAAAsMAAALDAE/QCLIAAACLklE
         QVQ4T82TX0hTURzHV2B/QCGksIegArEMCveQMmbYQ1gucoTZZD2MGvjiHqa0ae1218Pc5W5Luy4NiuaY
         FZWWNlg2UUQcFcZABkUFtlxlw4VOKmva+nbONZfKHoReevie8/t9z+/3OYcfHAmAf9KyxNY+FK7lvZOF
         lU1jK/zBdD7VskSudnbOfE0gU2qIbJExa6lH96X+0nqqVEBvOS/0QllzAwVKO/YorDHqC7cCSOcvKhWY
@@ -232,7 +229,7 @@
   <data name="aideListePaysToolStripMenuItem.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAIGNIUk0AAHolAACAgwAA+f8AAIDpAAB1
-        MAAA6mAAADqYAAAXb5JfxUYAAAAJcEhZcwAACxEAAAsRAX9kX5EAAAJhSURBVDhPpZPfS1NhGMf9E8yg
+        MAAA6mAAADqYAAAXb5JfxUYAAAAJcEhZcwAACwwAAAsMAT9AIsgAAAJhSURBVDhPpZPfS1NhGMf9E8yg
         vCgYEXQRgaEXRyFaRGEEcogKo6jhhQwkGlG4yNHJsLT1Y0aRFOLoB2yBcbqR1Tr0QgRRF54uTGulk6y2
         do69tYrU8tvznKObKwiiF76c5333fr7Pj51TBuC/9MdBpN9SwrH3Wsf1N+JY72s7eHnYPtj9TLScfqo1
         dzxSfr9fsonctv3hWMbou5dFOjeNT19mIPPTFE/hbHwEe0MPjJ2HE/6FTCHoZjieTVpfZyFMQIsBaqcr
@@ -246,6 +243,9 @@
         AAAASUVORK5CYII=
 </value>
   </data>
+  <metadata name="fichePaysToolStrip.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>271, 21</value>
+  </metadata>
   <data name="nouveauToolStripButton.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
@@ -564,7 +564,7 @@
         AElFTkSuQmCC
 </value>
   </data>
-  <data name="alignLeftoolStripButton.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+  <data name="alignLeftToolStripButton.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
         YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAGKSURBVDhPpZHZTsJAGIUbwyv5ED6Hj+KFF965xH1BoO4b
@@ -618,6 +618,9 @@
         E9ew//AVxE8OItv/9O/Cf0ck8gud2vKswuxNZgAAAABJRU5ErkJggg==
 </value>
   </data>
+  <metadata name="fichePaysOpenFileDialog.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>752, 19</value>
+  </metadata>
   <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         AAABAAkAMDAQAAAAAABoBgAAlgAAACAgEAAAAAAA6AIAAP4GAAAQEBAAAAAAACgBAADmCQAAMDAAAAEA

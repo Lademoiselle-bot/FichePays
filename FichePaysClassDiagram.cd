@@ -1,51 +1,47 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
   <Class Name="FichesPays.fichePaysGeneralClass" Collapsed="true">
-    <Position X="3.5" Y="4" Width="1.5" />
+    <Position X="1" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAABAAAEAAAAAAAAAA=</HashCode>
       <FileName>fichePaysGeneralClass.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="FichesPays.Parent" Collapsed="true">
-    <Position X="4.75" Y="1.75" Width="1.5" />
+    <Position X="3" Y="2.25" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>SoRkQQO5oCEIAUDgqQGSgBJCUBFQQMlC4QZAAAEJgoA=</HashCode>
+      <HashCode>SoQkQQO5oCEIAUDgqQGSgBJCUBFQQAlC4QZAAAEJgoA=</HashCode>
       <FileName>FichesPaysForm.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="FichesPays.PaysForm" Collapsed="true">
-    <Position X="7.25" Y="1.75" Width="1.5" />
+    <Position X="6" Y="2.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAARACAAACAAAAAAAECAAQACEAAAAAAAIAAAAAQAAAA=</HashCode>
       <FileName>PaysForm.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="FichesPays.Program" Collapsed="true" HideInheritanceLine="true">
-    <Position X="0.5" Y="1.75" Width="1.5" />
+  <Class Name="FichesPays.Program" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
       <FileName>Program.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="FichesPays.Properties.Resources" Collapsed="true">
-    <Position X="1.75" Y="3.75" Width="1.5" />
+    <Position X="0.5" Y="2.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>ggAEACAAAAAAgAAAAAABEAAACQACAAAIAAAAAAAAAYA=</HashCode>
     </TypeIdentifier>
   </Class>
   <Class Name="FichesPays.Properties.Settings" Collapsed="true">
-    <Position X="0.5" Y="0.75" Width="1.5" />
+    <Position X="0.5" Y="3.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
     </TypeIdentifier>
   </Class>
   <Class Name="System.Windows.Forms.Form" Collapsed="true">
-    <Position X="5.75" Y="0.5" Width="1.5" />
-    <TypeIdentifier />
-  </Class>
-  <Class Name="System.Object" Collapsed="true">
-    <Position X="3.75" Y="3" Width="1.5" />
+    <Position X="3.75" Y="0.5" Width="1.5" />
     <TypeIdentifier />
   </Class>
   <Font Name="Segoe UI" Size="9" />
